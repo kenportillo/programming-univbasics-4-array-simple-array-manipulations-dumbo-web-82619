@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def using_push (colors_in_the_rainbow, next_color)
   colors_in_the_rainbow = colors_in_the_rainbow.push(next_color)
 end
@@ -46,3 +47,14 @@ def using_delete_at (famous_robots, deleted_robot)
   deleted_robot = famous_robots.delete_at(2)
 end 
   
+=======
+def 
+  colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
+ next_color = "violet"
+ colors_in_the_rainbow.push(next_color)
+end
+
+def using_unshift
+  
+end
+>>>>>>> 2f3a9611110250f6df44388fd0ea642f9e9d72c9
